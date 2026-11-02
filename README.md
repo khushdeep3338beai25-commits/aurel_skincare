@@ -1,113 +1,33 @@
+AUREL — Thoughtful Skincare 🌿
 
-# AUREL — Thoughtful Skincare 🌿
+Rooted in Nature. Refined by Science.
 
-AUREL is a premium skincare e-commerce website designed with an elegant, minimal and luxurious aesthetic. It combines editorial-style visuals, warm earthy tones and a seamless shopping experience to showcase a curated skincare collection.
+AUREL is a premium skincare e-commerce website concept that blends minimalist design, editorial aesthetics and a seamless shopping experience. Built around a sophisticated visual identity, the website showcases a curated collection of skincare essentials through elegant product photography, warm earthy tones and refined interactions.
 
-## ✨ Features
+Designed to reflect the experience of a modern luxury skincare brand, AUREL focuses on simplicity, functionality and thoughtful digital craftsmanship.
 
-- Premium luxury skincare-inspired UI.
-- Elegant typography and warm earthy color palette.
-- Responsive design for desktop, tablet and mobile.
-- Six individual AUREL skincare product images.
-- Interactive product cards and Quick View.
-- Product category filtering.
-- Shopping bag with quantity controls.
-- Cart subtotal and localStorage persistence.
-- Beautiful editorial homepage hero section.
-- Skincare journal and testimonials.
-- Newsletter form with validation.
-- Smooth animations and hover effects.
-- Consistent AUREL branding and product packaging.
+✨ Key Features
 
-## 🧴 Product Collection
+Premium UI/UX: Minimalist luxury-inspired design with elegant typography and sophisticated layouts.
 
-1. Gentle Facial Cleanser
-2. Anti-Acne Face Wash
-3. Vitamin C Serum
-4. Hydrating Body Wash
-5. Vitamin C Clay Mask
-6. Overnight Repair Cream
+Responsive Design: Optimized for desktop, tablet and mobile devices.
 
-## 🛠️ Technologies Used
+Product Showcase: Six individually branded skincare products with consistent packaging and product imagery.
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla JS)
-- SVG
-- WebP Images
-- Google Fonts
+Interactive Product Cards: Smooth hover effects and quick-view functionality.
 
-## 📁 Project Structure
+Category Filtering: Browse products based on skincare categories.
 
-```text
-day 57 skincare/
-│
-├── index.html
-├── README.md
-├── BRAND-GUIDE.md
-│
-├── css/
-│   └── style.css
-│
-├── js/
-│   └── script.js
-│
-└── assets/
-    ├── hero/
-    ├── logo/
-    ├── products/
-    └── journal/
-```
+Shopping Bag: Add products, update quantities and manage cart items.
 
-## 🚀 Getting Started
+Dynamic Cart: Automatic subtotal calculation and persistent cart data using LocalStorage.
 
-1. Clone the repository:
+Editorial Homepage: Visually engaging hero section with premium skincare-inspired photography.
 
-```bash
-git clone YOUR_REPOSITORY_URL
-```
+Skincare Journal: Dedicated editorial section featuring skincare-related content.
 
-2. Navigate to the project folder:
+Customer Testimonials: A dedicated section showcasing illustrative customer experiences.
 
-```bash
-cd "day 57 skincare"
-```
+Newsletter Subscription: Email validation and interactive subscription form.
 
-3. Open the project in VS Code.
-
-4. Run using the Live Server extension or:
-
-```bash
-python3 -m http.server 8000
-```
-
-5. Open in your browser:
-
-```text
-http://localhost:8000
-```
-
-## 🎨 Design Concept
-
-AUREL follows a premium skincare visual identity inspired by:
-
-- Warm ivory and beige backgrounds.
-- Muted olive green accents.
-- Elegant dark brown typography.
-- Minimalist product packaging.
-- Editorial skincare photography.
-- Clean layouts and sophisticated spacing.
-
-## 📱 Responsive Design
-
-The website is designed to provide a consistent browsing experience across desktop, tablet and mobile devices.
-
-## ⚠️ Disclaimer
-
-This project is a front-end e-commerce website concept created for portfolio and educational purposes.
-
-Product information, prices, testimonials and checkout interactions are illustrative. No real payments are processed.
-
----
-
-**AUREL — Thoughtful Skincare. Rooted in Nature. Refined by Science.** 🌿
+Smooth Animations: Subtle transitions, hover interactions and refined visual effects.
