@@ -31,3 +31,153 @@ Customer Testimonials: A dedicated section showcasing illustrative customer expe
 Newsletter Subscription: Email validation and interactive subscription form.
 
 Smooth Animations: Subtle transitions, hover interactions and refined visual effects.
+
+🧴 Product Collection
+
+AUREL features six curated skincare essentials:
+
+No.
+
+Product
+
+Category
+
+01
+
+Gentle Facial Cleanser
+
+Cleansing
+
+02
+
+Anti-Acne Face Wash
+
+Cleansing
+
+03
+
+Vitamin C Serum
+
+Treatment
+
+04
+
+Hydrating Body Wash
+
+Body Care
+
+05
+
+Vitamin C Clay Mask
+
+Treatment
+
+06
+
+Overnight Repair Cream
+
+Moisturizing
+
+🎨 Design Philosophy
+
+AUREL's visual identity is inspired by contemporary luxury skincare brands, combining natural elements with a refined editorial aesthetic.
+
+Color Palette
+
+Warm Ivory & Beige — Soft, clean backgrounds.
+
+Muted Olive Green — Nature-inspired accents.
+
+Dark Brown — Elegant typography and contrast.
+
+Champagne Tones — Subtle luxury details.
+
+Design Elements
+
+Editorial-style skincare photography.
+
+Minimalist product packaging.
+
+Refined typography and generous whitespace.
+
+Consistent branding throughout the website.
+
+Subtle animations and sophisticated interactions.
+
+🛠️ Tech Stack
+
+Technology
+
+Purpose
+
+HTML5
+
+Website structure
+
+CSS3
+
+Styling, layouts and animations
+
+JavaScript
+
+Interactive functionality
+
+SVG
+
+Scalable icons and graphics
+
+WebP
+
+Optimized image assets
+
+Google Fonts
+
+Typography
+
+📁 Project Structure
+
+day-57-skincare/
+│
+├── index.html
+├── README.md
+├── BRAND-GUIDE.md
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+└── assets/
+    ├── hero/
+    ├── logo/
+    ├── products/
+    └── journal/
+
+🚀 Getting Started
+
+Follow these steps to run AUREL locally.
+
+1. Clone the repository
+
+git clone YOUR_REPOSITORY_URL
+
+2. Navigate to the project directory
+
+cd "day 57 skincare"
+
+3. Open the project
+
+Open the folder in Visual Studio Code.
+
+4. Start the local development server
+
+Using the VS Code Live Server extension or:
+
+python3 -m http.server 8000
+
+5. View the website
+
+Open your browser and visit:
+
+http://localhost:8000
