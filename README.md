@@ -134,15 +134,6 @@ http://localhost:8000
 
 ---
 
-## 📱 Responsive Experience
-
-AUREL is designed to maintain a consistent visual identity and intuitive shopping experience across different screen sizes.
-
-- Desktop — Spacious editorial layouts and immersive product showcases.
-- Tablet — Adaptable grids and optimized navigation.
-- Mobile — Responsive layouts and touch-friendly interactions.
-
----
 
 ## 🔮 Future Enhancements
 
