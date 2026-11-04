@@ -23,22 +23,6 @@ Designed to reflect the experience of a modern luxury skincare brand, AUREL focu
 - **Newsletter Subscription:** Email validation and interactive subscription form.
 - **Smooth Animations:** Subtle transitions, hover interactions and refined visual effects.
 
----
-
-## 🧴 Product Collection
-
-AUREL features six curated skincare essentials:
-
-| No. | Product | Category |
-|---|---|---|
-| 01 | Gentle Facial Cleanser | Cleansing |
-| 02 | Anti-Acne Face Wash | Cleansing |
-| 03 | Vitamin C Serum | Treatment |
-| 04 | Hydrating Body Wash | Body Care |
-| 05 | Vitamin C Clay Mask | Treatment |
-| 06 | Overnight Repair Cream | Moisturizing |
-
----
 
 ## 🎨 Design Philosophy
 
