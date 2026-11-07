@@ -1,45 +1,54 @@
-# AUREL — Thoughtful Skincare 🌿
 
-**Rooted in Nature. Refined by Science.**
+# 🌿 AUREL — Thoughtful Skincare
 
-AUREL is a premium skincare e-commerce website concept that blends minimalist design, editorial aesthetics and a seamless shopping experience. Built around a sophisticated visual identity, the website showcases a curated collection of skincare essentials through elegant product photography, warm earthy tones and refined interactions.
+### Rooted in Nature. Refined by Science.
 
-Designed to reflect the experience of a modern luxury skincare brand, AUREL focuses on simplicity, functionality and thoughtful digital craftsmanship.
+AUREL is a premium skincare e-commerce website concept that combines minimalist luxury, editorial aesthetics, and modern web functionality. Inspired by nature and refined through thoughtful design, AUREL offers an elegant digital experience for exploring skincare essentials.
+
+The project features a sophisticated visual identity, warm earthy tones, refined typography, and interactive shopping elements designed to reflect a contemporary luxury skincare brand.
 
 ---
 
-## ✨ Key Features
+## ✨ Features
 
-- **Premium UI/UX:** Minimalist luxury-inspired design with elegant typography and sophisticated layouts.
-- **Responsive Design:** Optimized for desktop, tablet and mobile devices.
-- **Product Showcase:** Six individually branded skincare products with consistent packaging and product imagery.
-- **Interactive Product Cards:** Smooth hover effects and quick-view functionality.
-- **Category Filtering:** Browse products based on skincare categories.
-- **Shopping Bag:** Add products, update quantities and manage cart items.
-- **Dynamic Cart:** Automatic subtotal calculation and persistent cart data using LocalStorage.
-- **Editorial Homepage:** Visually engaging hero section with premium skincare-inspired photography.
-- **Skincare Journal:** Dedicated editorial section featuring skincare-related content.
-- **Customer Testimonials:** A dedicated section showcasing illustrative customer experiences.
-- **Newsletter Subscription:** Email validation and interactive subscription form.
-- **Smooth Animations:** Subtle transitions, hover interactions and refined visual effects.
+- **Luxury UI/UX:** Minimalist and editorial-inspired design with elegant typography.
+- **Responsive Layout:** Seamless experience across desktop, tablet, and mobile devices.
+- **Premium Product Showcase:** Six individually branded skincare products with consistent AUREL packaging.
+- **Interactive Product Cards:** Smooth hover animations and quick-view functionality.
+- **Category Filtering:** Browse skincare products by category.
+- **Dynamic Shopping Bag:** Add products, update quantities, and remove items.
+- **Persistent Cart:** Shopping bag data saved using LocalStorage.
+- **Dynamic Subtotal:** Automatically calculates the total price of selected products.
+- **Editorial Homepage:** Premium skincare-inspired imagery and elegant layouts.
+- **Skincare Journal:** Dedicated section featuring skincare articles and beauty insights.
+- **Customer Testimonials:** Illustrative customer experiences and reviews.
+- **Newsletter Subscription:** Interactive email validation and subscription form.
+- **Smooth Animations:** Refined transitions, hover effects, and micro-interactions.
 
+---
 
 ## 🎨 Design Philosophy
 
-AUREL's visual identity is inspired by contemporary luxury skincare brands, combining natural elements with a refined editorial aesthetic.
+AUREL embraces the balance between nature, science, and modern luxury.
 
-**Color Palette**
-- Warm Ivory & Beige — Soft, clean backgrounds.
-- Muted Olive Green — Nature-inspired accents.
-- Dark Brown — Elegant typography and contrast.
-- Champagne Tones — Subtle luxury details.
+### Color Palette
 
-**Design Elements**
-- Editorial-style skincare photography.
-- Minimalist product packaging.
-- Refined typography and generous whitespace.
-- Consistent branding throughout the website.
-- Subtle animations and sophisticated interactions.
+| Color | Purpose |
+|---|---|
+| Warm Ivory | Primary background |
+| Soft Beige | Secondary surfaces |
+| Muted Olive Green | Nature-inspired accents |
+| Dark Brown | Typography and contrast |
+| Champagne | Premium decorative details |
+
+### Design Elements
+
+- Editorial-style skincare photography
+- Minimalist product packaging
+- Elegant serif headings and modern sans-serif body typography
+- Generous whitespace and balanced compositions
+- Consistent AUREL branding across product imagery
+- Subtle and sophisticated animations
 
 ---
 
@@ -47,19 +56,19 @@ AUREL's visual identity is inspired by contemporary luxury skincare brands, comb
 
 | Technology | Purpose |
 |---|---|
-| HTML5 | Website structure |
-| CSS3 | Styling, layouts and animations |
-| JavaScript | Interactive functionality |
-| SVG | Scalable icons and graphics |
+| HTML5 | Semantic website structure |
+| CSS3 | Styling, layouts, responsive design, and animations |
+| JavaScript | Interactive functionality and cart management |
+| SVG | Scalable icons and vector graphics |
 | WebP | Optimized image assets |
-| Google Fonts | Typography |
+| Google Fonts | Premium typography |
 
 ---
 
 ## 📁 Project Structure
 
 ```text
-day-57-skincare/
+day-057-skincare/
 │
 ├── index.html
 ├── README.md
@@ -82,35 +91,31 @@ day-57-skincare/
 
 ## 🚀 Getting Started
 
-Follow these steps to run AUREL locally.
-
-**1. Clone the repository**
+### 1. Clone the Repository
 
 ```bash
 git clone YOUR_REPOSITORY_URL
 ```
 
-**2. Navigate to the project directory**
+### 2. Navigate to the Project Directory
 
 ```bash
-cd "day 57 skincare"
+cd day-057-skincare
 ```
 
-**3. Open the project**
+### 3. Open the Project
 
-Open the folder in Visual Studio Code.
+Open the project folder in Visual Studio Code.
 
-**4. Start the local development server**
+### 4. Run the Website
 
-Using the VS Code Live Server extension or:
+Using the VS Code Live Server extension or Python:
 
 ```bash
 python3 -m http.server 8000
 ```
 
-**5. View the website**
-
-Open your browser and visit:
+### 5. View in Browser
 
 ```text
 http://localhost:8000
@@ -118,36 +123,48 @@ http://localhost:8000
 
 ---
 
-
 ## 🔮 Future Enhancements
 
-- Backend integration for real product management.
-- Secure payment gateway integration.
-- User authentication and personalized accounts.
-- Product reviews and ratings.
-- Order history and tracking.
-- Advanced skincare recommendation system.
+- Backend integration for product management
+- Secure payment gateway integration
+- User authentication and personalized accounts
+- Product reviews and ratings
+- Order history and tracking
+- AI-powered skincare recommendations
+- Database integration for inventory management
 
 ---
 
 ## ⚠️ Disclaimer
 
-AUREL is a front-end e-commerce concept developed for educational and portfolio purposes.
+AUREL is a front-end e-commerce website concept developed for educational and portfolio purposes.
 
-Product descriptions, prices, testimonials and checkout interactions are illustrative. The project does not process real payments or represent an operational skincare business.
+Product descriptions, prices, testimonials, and checkout interactions are illustrative. The project does not process real payments or represent an operational skincare business.
 
 ---
 
 ## 🌿 Brand Identity
 
-**AUREL — Thoughtful Skincare.**
-
-*Rooted in Nature. Refined by Science.*
+**Brand:** AUREL  
+**Tagline:** Rooted in Nature. Refined by Science.  
+**Category:** Luxury Skincare / E-commerce  
+**Project:** Day 57 — 100 Days of Web Development  
+**Developer:** Khushdeep Kaur
 
 A digital experience where thoughtful design meets the art of skincare.
 
 ---
 
-**Project:** Day 57 — 100 Days of Web Development  
-**Category:** E-commerce / Front-End Development  
-**Developer:** Khushdeep Kaur
+<p align="center">
+  <strong>🌿 AUREL — Thoughtful Skincare 🌿</strong>
+</p>
+```
+
+### GitHub Repository Description
+
+<text color="success" weight="medium">Recommended description</text>
+
+<box border radius="lg" padding={3}>
+AUREL — A premium skincare e-commerce website featuring minimalist luxury design, interactive product showcases, dynamic shopping cart functionality, and an elegant editorial experience.
+<button size="sm" color="secondary" variant="outline" onClick={() => GenUI.copy("AUREL — A premium skincare e-commerce website featuring minimalist luxury design, interactive product showcases, dynamic shopping cart functionality, and an elegant editorial experience.")}><icon name="copy" size="xs"/> Copy description</button>
+</box>
