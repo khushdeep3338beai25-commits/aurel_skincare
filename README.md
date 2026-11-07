@@ -106,19 +106,6 @@ python3 -m http.server 8000
 ```text
 http://localhost:8000
 ```
-
----
-
-## 🔮 Future Enhancements
-
-- Backend integration for product management
-- Secure payment gateway integration
-- User authentication and personalized accounts
-- Product reviews and ratings
-- Order history and tracking
-- AI-powered skincare recommendations
-- Database integration for inventory management
-
 ---
 
 ## ⚠️ Disclaimer
