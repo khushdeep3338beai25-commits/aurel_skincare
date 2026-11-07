@@ -27,20 +27,6 @@ The project features a sophisticated visual identity, warm earthy tones, refined
 
 ---
 
-## 🎨 Design Philosophy
-
-AUREL embraces the balance between nature, science, and modern luxury.
-
-### Color Palette
-
-| Color | Purpose |
-|---|---|
-| Warm Ivory | Primary background |
-| Soft Beige | Secondary surfaces |
-| Muted Olive Green | Nature-inspired accents |
-| Dark Brown | Typography and contrast |
-| Champagne | Premium decorative details |
-
 ### Design Elements
 
 - Editorial-style skincare photography
